@@ -3,6 +3,10 @@ Tetris Command Line Game in C++
 
 Welcome to the Tetris Command Line Game, a classic Tetris implementation in C++. This project brings the timeless joy of Tetris to your command line interface, allowing you to enjoy the addictive gameplay right from your terminal.
 
+Screenshot:
+
+![Tetris_Screenshoot](https://github.com/maityimankalyan/CPP_SimpleSnake/assets/12840495/d376cd19-95d6-4985-8be8-30a0d1b6e337)
+
 Features
 
 Classic Gameplay: Experience the familiar Tetris gameplay where you manipulate falling blocks to complete lines and score points.
